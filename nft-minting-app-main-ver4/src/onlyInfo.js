@@ -172,13 +172,13 @@ export const StyledImgHsqLeft = styled.img`
   border-radius: 10%;
   width: 250px;
   @media (max-width: 510px) {
-    width: 250px;
+    display: none;
   }
   @media (min-width: 900px) {
-    display: none;
+    width: 250px;
   }
   @media (min-width: 1000px) {
-    display: none;
+    width: 300px;
   }
   transition: width 0.5s;
 `;
@@ -578,7 +578,7 @@ function App() {
 
         <ResponsiveWrapper>
         <s.Container flex={1} jc={"center"} ai={"center"}>
-            <StyledImgHsq alt={"example"} src={"/config/images/display6.png"}/>
+            <StyledImgHsqLeft alt={"example"} src={"/config/images/display6.png"}/>
             {/* style={{ transform: "scaleX(-1)" }} */}
           </s.Container>
                 <s.Container
