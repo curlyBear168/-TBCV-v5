@@ -613,22 +613,22 @@ function App() {
                     <s.TextDescription
                           style={{ textAlign: "center",  color: "#696969"  }}
                         >
-                      Feb 14, 2022 - Public Sale starts
+                      March 13, 2022 - Pre-Mint for Whitelist-ed
                     </s.TextDescription>
                     <s.TextDescription
                           style={{ textAlign: "center",  color: "#696969"  }}
                         >
-                      March 14, 2022 - Bored Valentine Girl Club launch
+                      March 14, 2022 - PUBLIC MINT
                     </s.TextDescription>
                     <s.TextDescription
                           style={{ textAlign: "center",  color: "#696969"  }}
                         >
-                      July 2022 - Launch of the BV Dating Club
+                      Q3 2022 - Launch of the BV Dating Club
                     </s.TextDescription>
                     <s.TextDescription
                           style={{ textAlign: "center",  color: "#696969"  }}
                         >
-                      Oct 2022 - Launch of the Mating Room
+                      Q1 2023 - Launch of the Mating Room
                     </s.TextDescription>
 
                     <StyledImgXsmall src={"/config/images/sum.png"}/>
